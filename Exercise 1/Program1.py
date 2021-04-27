@@ -6,6 +6,7 @@ def Evenorodd(n):
             print ('Odd')
 n=int(input("Enter a number to find if it is even or odd : "))
 print(Evenorodd(n))
+#my first github upload
 
 #2. Factorial
 
