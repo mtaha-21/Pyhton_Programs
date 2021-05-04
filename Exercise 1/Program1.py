@@ -8,7 +8,7 @@ n=int(input("Enter a number to find if it is even or odd : "))
 print(Evenorodd(n))
 #my first github upload
 
-#2. Factorial
+#2. Factorial 
 
 def fact(num):
  fac = 1
@@ -42,7 +42,6 @@ def Sumofdigitsofanumber (n):
 n=int(input("Enter a number with more than two digits :"))
 Sumofdigitsofanumber(n)
 
-
 #5. Armstrong number
 def Armstrongnumber (n):
     sum=0
@@ -58,7 +57,6 @@ def Armstrongnumber (n):
 
 n=int(input("Verify the armstrongness of a number lol :"))
 Armstrongnumber(n)
-
 
 #6. Extraction of particular word using the following :
     # a.List, ( list need not be always homogeneous)
